@@ -11,7 +11,11 @@ aws、SpringCloudAlibaba、serviceMesh
 
 3、MQ、Streaming
 pulsar
-websocket、webRTC、p2pICE、MQ
+websocket、webRTC、
+p2pICE
+STUN、TURN、ICE
+
+MQ
 
 4、AVCodec
 FFMPEG、H265、H266
@@ -31,3 +35,17 @@ pytorch
 9、MR、AR、VR
 apple（car + glass）
 
+10、standard 
+IEEF、RFC
+
+https://datatracker.ietf.org/doc/html/rfc3489
+
+11、patent、paper
+US、CN
+SCI、IEEE
+
+12、information collect、process、predict
+fb、twitter、wechat、paper
+
+13、currency
+blockChain:exchange、trade
